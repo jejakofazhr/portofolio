@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "links": [
+    {
+      "component": "Nav Bar",
+      "language": "vue",
+      "importPath": "./src/lib/components/Nav.svelte",
+      "name": "Nav",
+      "template": "<Nav />"
+    },
+    {
+      "component": "Hero Button Primary",
+      "language": "vue",
+      "importPath": "./src/lib/components/Hero.svelte",
+      "name": "Hero",
+      "template": "<Hero />"
+    },
+    {
+      "component": "Marquee Section",
+      "language": "vue",
+      "importPath": "./src/lib/components/About.svelte",
+      "name": "About",
+      "template": "<About />"
+    },
+    {
+      "component": "Work Card 1",
+      "language": "vue",
+      "importPath": "./src/lib/components/Work.svelte",
+      "name": "WorkCard",
+      "template": "<Work />"
+    },
+    {
+      "component": "Work Card 2",
+      "language": "vue",
+      "importPath": "./src/lib/components/Work.svelte",
+      "name": "WorkCard",
+      "template": "<Work />"
+    },
+    {
+      "component": "Work Card 3",
+      "language": "vue",
+      "importPath": "./src/lib/components/Work.svelte",
+      "name": "WorkCard",
+      "template": "<Work />"
+    }
+  ]
+}
